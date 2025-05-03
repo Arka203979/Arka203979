@@ -1,5 +1,4 @@
-## Hi there 👋
-<img align="top" alt="Banner" width="1000" height="300" src="https://i.pinimg.com/originals/36/e4/d0/36e4d0b856694fc471344b644a1dd6e4.gif">
+<img align="top" alt="Banner" width="1000" height="300" src="https://images.app.goo.gl/NerkpAGxoHzxoCpj6.gif">
 ## Hi there 👋
 
  <h1 align="center">Hi 👋, I'm Arkasinchan Ghosh</h1>
@@ -35,9 +34,9 @@
 ### Languages:
 [![My Skills](https://skillicons.dev/icons?i=C++,js,html,css,VSCode)](https://skillicons.dev)
 
-![Sufal Basak's GitHub stats](https://github-readme-stats.vercel.app/api?username=SufalBasak&show_icons=true&theme=dark)
+![Arkasinchan Ghosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=arka203979&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sufalbasak&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arka203979&theme=dark)
 
 
 <br>
