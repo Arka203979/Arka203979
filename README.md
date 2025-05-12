@@ -1,5 +1,5 @@
-<img align="top" alt="Banner" width="1000" height="300" src="https://images.app.goo.gl/NerkpAGxoHzxoCpj6.gif">
-## Hi there 👋
+<img align="top" alt="Banner" width="1000" height="300" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
+Hi there 👋
 
  <h1 align="center">Hi 👋, I'm Arkasinchan Ghosh</h1>
 
